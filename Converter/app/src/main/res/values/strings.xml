@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="textView">Amount of Euros</string>
+    <string name="textView2">Result here</string>
+    <string name="convert">CONVERT</string>
+    <string name="curr1">Riyals (SAR)</string>
+    <string name="curr2">Taka (TK)</string>
+    <string name="curr3">Dollars ($)</string>
+    <string name="choose">Select Currency</string>
+    <string name="calculate">CALCULATE</string>
+</resources>
